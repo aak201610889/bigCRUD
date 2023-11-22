@@ -1,0 +1,6 @@
+2023-11-21 11:04:53.061 +04:00 [INF] orderDetail ==>
+2023-11-21 11:08:06.461 +04:00 [INF] order ==>
+2023-11-21 15:06:47.549 +04:00 [INF] product details
+2023-11-21 15:07:20.213 +04:00 [INF] product details
+2023-11-21 15:07:35.690 +04:00 [INF] product details
+2023-11-21 15:33:12.950 +04:00 [INF] product details

@@ -1,0 +1,5 @@
+2023-11-22 11:46:12.454 +04:00 [INF] product details
+2023-11-22 12:21:51.329 +04:00 [INF] product details
+2023-11-22 12:21:54.908 +04:00 [INF] product details
+2023-11-22 12:22:43.403 +04:00 [INF] product details
+2023-11-22 12:23:44.107 +04:00 [INF] product details

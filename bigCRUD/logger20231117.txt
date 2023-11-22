@@ -1,0 +1,19 @@
+2023-11-17 10:08:05.774 +04:00 [INF] dddddddddddddddddddddddd
+2023-11-17 10:08:13.185 +04:00 [INF] dddddddddddddddddddddddd
+2023-11-17 10:09:33.684 +04:00 [INF] product details
+2023-11-17 10:09:46.218 +04:00 [INF] product details
+2023-11-17 10:09:58.039 +04:00 [INF] product details
+2023-11-17 10:10:05.485 +04:00 [INF] product details
+2023-11-17 10:11:16.679 +04:00 [INF] order ==>
+2023-11-17 10:11:32.616 +04:00 [INF] order ==>
+2023-11-17 10:11:40.899 +04:00 [INF] order ==>
+2023-11-17 10:11:54.291 +04:00 [INF] order ==>
+2023-11-17 10:12:26.962 +04:00 [INF] orderDetail ==>
+2023-11-17 10:12:40.175 +04:00 [INF] orderDetail ==>
+2023-11-17 10:12:50.396 +04:00 [INF] orderDetail ==>
+2023-11-17 11:16:22.329 +04:00 [INF] dddddddddddddddddddddddd
+2023-11-17 11:17:00.986 +04:00 [INF] product details
+2023-11-17 11:24:24.823 +04:00 [INF] product details
+2023-11-17 11:26:12.811 +04:00 [INF] dddddddddddddddddddddddd
+2023-11-17 11:26:35.923 +04:00 [INF] product details
+2023-11-17 11:38:37.718 +04:00 [INF] product details
